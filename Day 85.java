@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int[] angka = {25, 10, 40, 5, 30};
+        int[] angka = {15, 30, 10, 50, 25};
 
         int terkecil = angka[0];
 
